@@ -12,4 +12,6 @@
 **Treelite** is a model compiler for efficient deployment of decision tree
 ensembles.
 
-**NEW: Treelite is now used in the [Amazon Neo AI open source project](https://github.com/neo-ai/neo-ai-dlr).** See [here](https://aws.amazon.com/blogs/machine-learning/aws-launches-open-source-neo-ai-project-to-accelerate-ml-deployments-on-edge-devices/) for more information.
+**Neo-ai-treelite** is a AWS-managed fork of Treelite, that hosts vendor- and product-oriented features on top of upstream codebase.
+
+**The version 0.32 is now available.**
